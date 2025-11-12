@@ -8,6 +8,13 @@
 
 ---
 
+<img width="600" src="https://github.com/user-attachments/assets/8faab80b-39b3-4798-a08f-8b85047c202f" >
+
+
+Presentación [Click aquí](https://gamma.app/docs/Polifonia-Gestual-xp2kgms7c9c46hy)
+
+---
+
 ## 🎯 Descripción
 
 **Polifonía Gestual** es una experiencia audiovisual interactiva que permite controlar un secuenciador musical mediante gestos complejos de manos. Los usuarios pueden activar capas musicales, ajustar volumen y efectos usando movimientos naturales, mientras ondas visuales sincronizadas proporcionan feedback inmediato.
