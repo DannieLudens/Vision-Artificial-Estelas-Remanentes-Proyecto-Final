@@ -11,7 +11,11 @@
 <img width="600" src="https://github.com/user-attachments/assets/8faab80b-39b3-4798-a08f-8b85047c202f" >
 
 
-Presentación [Click aquí](https://gamma.app/docs/Polifonia-Gestual-xp2kgms7c9c46hy)
+- Presentación [Click aquí](https://gamma.app/docs/Polifonia-Gestual-xp2kgms7c9c46hy)
+
+- Interactuar directamente en P5js para visualización unicamente [Click aquí](https://editor.p5js.org/DanieLudens/full/QL3xwuj1h)
+
+- Interactuar directamente en P5js para ver el código tambíen [Click aquí](https://editor.p5js.org/DanieLudens/sketches/QL3xwuj1h)
 
 ---
 
