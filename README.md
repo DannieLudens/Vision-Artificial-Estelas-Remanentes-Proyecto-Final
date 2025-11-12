@@ -405,7 +405,7 @@ Este proyecto evolucionó significativamente durante su desarrollo:
 
 Proyecto desarrollado como parte del curso de **Visión Artificial con ML5.js**
 
-**Período:** Octubre - Noviembre 2025
+**Período:** Septiembre - Octubre - Noviembre 2025
 
 ---
 
@@ -417,12 +417,14 @@ Este proyecto es de uso educativo.
 
 ## 🙏 Agradecimientos
 
-- Profesor del curso por las asesorías y guía
+- Antonio Escamilla Profesor del curso por las asesorías y guía
+- Juan Fernando Franco procesor de Simulación de sistemas fisicos interactivos y cursos afines.
 - Memo Akten por SUPERRADIANCE como inspiración
+- VCVRACK
 - Comunidades de ML5.js, Tone.js y p5.js
 - Daniel Shiffman (The Coding Train) por tutoriales
 
 ---
 
-**¿Preguntas o comentarios?** Ver documentación completa en:
-`Z Proyecto Final/Bitacora_Semana1_Diseño.md`
+Ver documentación completa en:
+`Bitacora_Semana1_Diseño.md`
